@@ -1,0 +1,8 @@
+.card {
+    max-width: 400px;
+    margin: 10px auto;
+}
+
+.card:hover {
+    background-color: aqua;
+}
